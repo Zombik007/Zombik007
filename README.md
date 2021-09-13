@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zombik007
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning in GoIt
+- 💞️ I’m looking to collaborate with a good team
+- 📫 How to reach me myts.vitaliy@gmail.com
